@@ -29,10 +29,6 @@ public class OperatorRelasional {
 		
 		
 		
-		
-		
-		// TODO Auto-generated method stub
-
 	}
 
 }
